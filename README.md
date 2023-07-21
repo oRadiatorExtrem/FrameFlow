@@ -11,3 +11,6 @@ Foundation for Other Mods and Modpacks: As a solid base, FrameFlow allows easy i
 Forge Support: With Forge support, a rarity in many modpacks, FrameFlow unlocks a vast selection of mods, expanding gameplay options.
 
 Unmatched Experience on Limited Hardware: Through exceptional optimization, FrameFlow ensures smooth and fluid gameplay, even on computers with limited resources.
+
+
+**Eventually this modpack will be available on https://modrinth.com/modpack/frameflow**
